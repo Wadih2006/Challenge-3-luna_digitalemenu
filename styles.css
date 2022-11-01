@@ -37,3 +37,9 @@
     color: #fff;
     text-transform: uppercase;
 }
+#map{
+position: absolute;
+left: 23px;
+top: 228px;
+
+}
