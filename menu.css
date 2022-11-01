@@ -1,0 +1,104 @@
+body{
+    background-color: #87A878;
+   
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-color: #87A878;
+    background-size: cover;
+    background-position: center;
+}
+.navbar{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2A3E27;
+    width: 100%;
+    height: 90px;
+}
+.logo{
+    width: 110px;
+    cursor: pointer;
+    z-index: 1;
+    margin-left: 60px;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+#hoofdtekstmenu1{
+    top: -600px;
+    left: 780px;
+    width: 550px;
+    height: 600px;
+    position: relative;
+    color: #fff;
+}
+
+#tekstmenu1{
+    top: -1100px;
+    left: 780px;
+    width: 550px;
+    height: 600px;
+    position: relative;
+    color: #fff;
+}
+
+#eetbank{
+    top: -1720px;
+    left: 100px;
+    width: 35%;
+    height: 620px;
+    position: relative;
+}
+
+#broodjeluna{
+    top: -1800px;
+    left: 780px;
+    width: 15%;
+    position: relative;
+}
+
+#hoofdtekstmenu2{
+    top: -2250px;
+    left: 100px;
+    width: 550px;
+    height: 600px;
+    position: relative;
+    color: #fff;
+}
+
+#tekstmenu2{
+    top: 100px;
+    left: 10px;
+    width: 550px;
+    height: 600px;
+    position: relative;
+    color: #fff;
+}
+
+#hoofdtekstmenu3{
+    top: -50px;
+    left:570px;
+    width: 550px;
+    height: 600px;
+    position: relative;
+    color: #fff;
+}
