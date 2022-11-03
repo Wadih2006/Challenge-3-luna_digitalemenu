@@ -4,7 +4,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LUNA/Allergiën</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="allergieën.css">
+    
 </head>
 <body>
     <!--this is the fontfamily-->
@@ -18,7 +19,7 @@ body {
 <header>
     <div class="banner">
         <div class="navbar">
-            <img src="Luna logo transparant.svg" class="logo">
+            <img src="img/Luna logo transparant.svg" class="logo">
             <ul>
                 <li><a href="#"><a href="index.html">Home &emsp;&ensp;|</a></li>
                 <li><a href="#"><a href="menu.html">Menu &emsp;&ensp;|</a></li>
@@ -28,5 +29,73 @@ body {
             </ul>
         </div>
 </header>
+<style>
+    body {font-family: 'Amatic SC';}
+    * {box-sizing: border-box;}
+    
+    input[type=text], select, textarea {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      margin-top: 6px;
+      margin-bottom: 16px;
+      resize: vertical;
+    }
+    
+    input[type=submit] {
+      background-color: #04AA6D;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    
+    input[type=submit]:hover {
+      background-color: #45a049;
+    }
+    
+    .container {
+      border-radius: 5px;
+      background-color: #f2f2f2;
+      padding: 20px;
+      position: relative;
+      top: -550px;
+    }
+    </style>
+    </head>
+    <body>
+
+    <div class="container">
+        <h3>Om rekening te houden met uw allergieën moet u uw gegevens hier beneden invullen, de gegenereerde QR-code die 
+            tevoorschijn komt moet u aan de ober laten zien zodat we rekening houden met uw allergieën</h3>
+
+      <form action="qr code.html">
+        <label for="fname">Voor en achternaam</label>
+        <input type="text" id="fname" name="firstname" placeholder="Typ hier...">
+        
+        <label for="country">Tafel</label>
+        <select id="country" name="country">
+          <option value="australia">Tafel 1</option>
+          <option value="canada">Tafel 2</option>
+          <option value="usa">Tafel 3</option>
+          <option value="usa">Tafel 4</option>
+          <option value="australia">Tafel 5</option>
+          <option value="canada">Tafel 6</option>
+          <option value="usa">Tafel 7</option>
+          <option value="australia">Tafel 8</option>
+          <option value="canada">Tafel 9</option>
+          <option value="usa">Tafel 10</option>
+        </select>
+    
+        <label for="subject">Bijschrijving</label>
+        <textarea id="subject" name="subject" placeholder="Typ hier uw allergieën..." style="height:100px"></textarea>
+    
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+</style>
 </body>
 </html>
