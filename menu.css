@@ -1,6 +1,6 @@
 body{
     background-color: #87A878;
-   
+ 
 }
 
 *{
@@ -97,6 +97,22 @@ body{
 #hoofdtekstmenu3{
     top: -50px;
     left:570px;
+    width: 550px;
+    height: 600px;
+    position: relative;
+    color: #fff;
+}
+
+#lunchbowl{
+    top: 50px;
+    left: -570px;
+    width: 15%;
+    position: relative;
+}
+
+#tekstblokje{
+    top: -320px;
+    left: 100px;
     width: 550px;
     height: 600px;
     position: relative;
