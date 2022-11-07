@@ -89,9 +89,10 @@ body{
     top: 100px;
     left: 10px;
     width: 550px;
-    height: 600px;
+    height: 300px;
     position: relative;
     color: #fff;
+
 }
 
 #hoofdtekstmenu3{
@@ -115,6 +116,33 @@ body{
     left: 100px;
     width: 550px;
     height: 600px;
+    position: relative;
+    color: #fff;
+}
+
+#linkontbijt{
+    top:-1300px;
+    left: 780px;
+    width: 55px;
+    height: 60px;
+    position: relative;
+    color: #fff;
+}
+
+#linklunch{
+    top:-1300px;
+    left: 780px;
+    width: 55px;
+    height: 60px;
+    position: relative;
+    color: #fff;
+}
+
+#linkdiner{
+    top:-700px;
+    left: 110px;
+    width: 55px;
+    height: 60px;
     position: relative;
     color: #fff;
 }
