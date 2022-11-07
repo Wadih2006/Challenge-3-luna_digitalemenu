@@ -62,7 +62,7 @@ body{
 }
 
 #eetbank{
-    top: -1720px;
+    top: -1890px;
     left: 100px;
     width: 35%;
     height: 620px;
@@ -70,50 +70,48 @@ body{
 }
 
 #broodjeluna{
-    top: -1800px;
+    top: -1950px;
     left: 780px;
     width: 15%;
     position: relative;
 }
 
 #hoofdtekstmenu2{
-    top: -2250px;
+    top: -2350px;
     left: 100px;
-    width: 550px;
-    height: 600px;
     position: relative;
     color: #fff;
 }
 
 #tekstmenu2{
-    top: 100px;
-    left: 10px;
+    top: -2300px;
+    left: 100px;
     width: 550px;
-    height: 300px;
+    height: 100px;
     position: relative;
     color: #fff;
 
 }
 
 #hoofdtekstmenu3{
-    top: -50px;
-    left:570px;
+    top: -1950px;
+    left: 680px;
     width: 550px;
-    height: 600px;
+    height: 400px; 
     position: relative;
     color: #fff;
 }
 
 #lunchbowl{
-    top: 50px;
-    left: -570px;
+    top: -2250px;
+    left: 100px;
     width: 15%;
     position: relative;
 }
 
 #tekstblokje{
-    top: -320px;
-    left: 100px;
+    top: -2620px;
+    left: 800px;
     width: 550px;
     height: 600px;
     position: relative;
@@ -130,8 +128,8 @@ body{
 }
 
 #linklunch{
-    top:-1300px;
-    left: 780px;
+    top:-850px;
+    left: 100px;
     width: 55px;
     height: 60px;
     position: relative;
@@ -139,8 +137,8 @@ body{
 }
 
 #linkdiner{
-    top:-700px;
-    left: 110px;
+    top:-220px;
+    left: 680px;
     width: 55px;
     height: 60px;
     position: relative;
