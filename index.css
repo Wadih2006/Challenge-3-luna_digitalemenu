@@ -1,6 +1,7 @@
 body{
     background-color: #87A878;
-   
+   width: 100%;
+   height: 100%;
 }
 
 *{
@@ -14,6 +15,7 @@ body{
     background-size: cover;
     background-position: center;
 }
+
 .navbar{
     width: 85%;
     margin: auto;
