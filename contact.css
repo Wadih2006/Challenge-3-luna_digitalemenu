@@ -47,8 +47,6 @@ style{
 
 #tekst3 {
     position: absolute;
-    width: 129%;
-    height: 463%;
     left: 50%;
     top:35%;
     color: white;
@@ -57,8 +55,6 @@ style{
 
 #tekst4 {
     position: absolute;
-    width: 281%;
-    height: 394%;
     left: 9%;
     top: 135%;
     font-family: 'Amatic SC';
