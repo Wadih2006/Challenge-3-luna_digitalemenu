@@ -43,6 +43,7 @@ body{
 style{
     position: fixed;
 }
+
 #tekst3 {
     position: absolute;
     width: 1280px;
@@ -101,3 +102,5 @@ style{
     left: 28px;
     top: 1566px;
 }
+
+
