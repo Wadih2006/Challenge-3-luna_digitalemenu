@@ -10,7 +10,6 @@ body{
 .banner{
     width: 100%;
     height: 30vh;
-    background-color: #87A878;
     background-size: cover;
     background-position: center;
 }
@@ -72,8 +71,11 @@ footer {
     background-color: #2A3E27;
     color: white;
 }
-.insta{
-    margin-top: -10%;
+#insta{
+    margin-top: -5%;
     margin-left: 70%;
-    width: 10%;
+}
+#facebook{
+    margin-top: -6%;
+    margin-left: 80%;
 }
