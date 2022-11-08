@@ -32,9 +32,8 @@ body{
 .navbar ul li{
     list-style: none;
     display: inline-block;
-    margin: auto;
+    margin: 0 20px;
     position: relative;
-    left: -10%;
 }
 .navbar ul li a{
     text-decoration: none;
