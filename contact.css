@@ -7,7 +7,7 @@ body{
 }
 .banner{
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background-color: #87A878;
     background-size: cover;
     background-position: center;
@@ -15,25 +15,26 @@ body{
 .navbar{
     width: 85%;
     margin: auto;
-    padding: 35px 0;
+    padding: 1% 0;
     display: flex;
     align-items: center;
     justify-content: space-between;
     background-color: #2A3E27;
     width: 100%;
-    height: 140px;
+    height: 20%;
 }
 .logo{
-    width: 110px;
+    width: 35%;
     cursor: pointer;
     z-index: 1;
-    margin-left: 60px;
+    margin-left: 30%;
 }
 .navbar ul li{
     list-style: none;
     display: inline-block;
-    margin: 0 20px;
+    margin: auto;
     position: relative;
+    left: -10%;
 }
 .navbar ul li a{
     text-decoration: none;
@@ -46,61 +47,57 @@ style{
 
 #tekst3 {
     position: absolute;
-    width: 1280px;
-    height: 463px;
-    left: 730px;
-    top:250px;
+    left: 50%;
+    top:35%;
     color: white;
    
 }
 
 #tekst4 {
     position: absolute;
-    width: 281px;
-    height: 394px;
-    left: 131px;
-    top: 987px;
+    left: 9%;
+    top: 135%;
     font-family: 'Amatic SC';
     font-style: normal;
     font-weight: 400;
-    font-size: 40px;
-    line-height: 50px;
+    font-size: 140%;
+    line-height: -40%;
     color: #FFFFFF;
     
 }
 
 #map {
     position: absolute;
-    left: 23px;
-    top: 228px;
+    left: 2%;
+    top: 33%;
 
 }
 #img1 {
     position: absolute;
-    margin-top: 200px;
-    margin-left: 750px;
+    margin-top: 13%;
+    margin-left: 50%;
 }
 
 #tekst5{
 
     position: absolute;
-    left: 711px;
-    top: 1566px;
+    left: 50%;
+    top: 215%;
     font-family: 'Amatic SC';
     font-style: normal;
     font-weight: 400;
-    font-size: 48px;
-    line-height: 61px;
+    font-size: 140%;
+    line-height: -60%;
     color: #FFFFFF;
 
 }
 
 #img2 {
     position: absolute;
-    width: 646px;
-    height: 446px;
-    left: 28px;
-    top: 1566px;
+    width: 100%;
+    height: 200%;
+    left: 2%;
+    top: 212%;
 }
 
 
