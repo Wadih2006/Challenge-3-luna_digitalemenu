@@ -64,3 +64,16 @@ style{
     margin-left: 120%;
     border-radius: 10px;
 }
+footer {
+    font-family: 'Roboto';
+    font-size: 80%;
+    text-align: left;
+    padding: 5%;
+    background-color: #2A3E27;
+    color: white;
+}
+.insta{
+    margin-top: -10%;
+    margin-left: 70%;
+    width: 10%;
+}
