@@ -144,3 +144,20 @@ body{
     position: relative;
     color: #fff;
 }
+footer {
+    font-family: 'Roboto';
+    font-size: 80%;
+    text-align: left;
+    padding: 5%;
+    background-color: #2A3E27;
+    color: white;
+    margin-top: -150%;
+}
+#insta{
+    margin-top: -5%;
+    margin-left: 70%;
+}
+#facebook{
+    margin-top: -6%;
+    margin-left: 80%;
+}

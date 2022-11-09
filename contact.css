@@ -1,5 +1,7 @@
 body{
     background-color: #87A878;
+    font-family: 'Amatic SC';
+    font-size: 30px;
 }
 *{
     margin: 0;
@@ -78,7 +80,6 @@ style{
 }
 
 #tekst5{
-
     position: absolute;
     left: 50%;
     top: 215%;
@@ -98,5 +99,20 @@ style{
     left: 2%;
     top: 212%;
 }
-
-
+footer {
+    font-family: 'Roboto';
+    font-size: 80%;
+    text-align: left;
+    padding: 5%;
+    background-color: #2A3E27;
+    color: white;
+    margin-top: 90%;
+}
+#insta{
+    margin-top: -5%;
+    margin-left: 70%;
+}
+#facebook{
+    margin-top: -6%;
+    margin-left: 80%;
+}

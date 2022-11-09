@@ -1,5 +1,7 @@
 body{
     background-color: #87A878;
+    font-family: 'Amatic SC';
+    font-size: 30px;
 }
 *{
     margin: 0;
@@ -42,4 +44,21 @@ body{
 }
 style{
     position: fixed;
+}
+footer {
+    font-family: 'Roboto';
+    font-size: 80%;
+    text-align: left;
+    padding: 5%;
+    background-color: #2A3E27;
+    color: white;
+    margin-top: -30%;
+}
+#insta{
+    margin-top: -5%;
+    margin-left: 70%;
+}
+#facebook{
+    margin-top: -6%;
+    margin-left: 80%;
 }
