@@ -107,6 +107,8 @@ footer {
     background-color: #2A3E27;
     color: white;
     margin-top: 90%;
+    top: 25%;
+    position: relative;
 }
 #insta{
     margin-top: -5%;
