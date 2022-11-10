@@ -1,6 +1,6 @@
 body{
     background-color: #87A878;
- 
+    background-image: url(img/Procreatetrans15.PNG);
 }
 
 *{
@@ -13,6 +13,7 @@ body{
     background-color: #87A878;
     background-size: cover;
     background-position: center;
+    background-image: url(img/Procreatetrans15.PNG);
 }
 .navbar{
     width: 85%;
