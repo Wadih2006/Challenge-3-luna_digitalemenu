@@ -119,7 +119,7 @@ body{
 }
 
 #markt{
-    top: -2850px;
+    top: -1050px;
     left: 0%;
     width:100%;
     height: 290px;
@@ -133,6 +133,8 @@ footer {
     background-color: #2A3E27;
     color: white;
     margin-top: -150%;
+    top: -50%;
+    position: relative;
 }
 #insta{
     margin-top: -5%;
