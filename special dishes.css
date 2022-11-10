@@ -70,6 +70,8 @@ footer {
     padding: 5%;
     background-color: #2A3E27;
     color: white;
+  
+    
 }
 #insta{
     margin-top: -5%;
@@ -78,4 +80,11 @@ footer {
 #facebook{
     margin-top: -6%;
     margin-left: 80%;
+}
+.insta{
+    margin-top: -5%;
+    margin-left: 80%;
+    width: 10%;
+    top: 10%;
+    position: relative;
 }

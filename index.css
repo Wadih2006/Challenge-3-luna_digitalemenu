@@ -2,6 +2,9 @@ body{
     background-color: #87A878;
     width: 100%;
     height: 100%;
+   width: 100%;
+   height: 100%;
+
 }
 
 *{
@@ -110,10 +113,17 @@ body{
 }
 
 .tekstgiftcard{
-    top: -2750px;
-    left: 100px;
+    top: -3050px;
+    left: 150px;
     position: relative;
-    color: #fff;
+}
+
+#markt{
+    top: -2850px;
+    left: 0%;
+    width:100%;
+    height: 290px;
+    position: relative;
 }
 footer {
     font-family: 'Roboto';
@@ -132,3 +142,5 @@ footer {
     margin-top: -6%;
     margin-left: 80%;
 }
+
+
