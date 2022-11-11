@@ -62,6 +62,7 @@ style{
     top: 60%;
     transform: translateY(-50%);
     margin-left: 560px;
+    border-radius: 10px;
 }
 .terugknop{
     width: 400px;
