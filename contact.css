@@ -1,8 +1,9 @@
 body{
     background-color: #87A878;
     font-family: 'Amatic SC';
-    font-size: 30px;
+    font-size: 200%;
 }
+
 *{
     margin: 0;
     padding: 0;
@@ -98,6 +99,9 @@ style{
     height: 200%;
     left: 2%;
     top: 212%;
+}
+style{
+    position: fixed;
 }
 footer {
     font-family: 'Roboto';
