@@ -1,21 +1,18 @@
 body{
     background-color: #87A878;
+    background-image: url(img/Procreatetrans15.PNG);
 }
 *{
     margin: 0;
     padding: 0;
 }
-
-body {
-    background-color: red important;
-}
-
 .banner{
     width: 100%;
     height: 100vh;
     background-color: #87A878;
     background-size: cover;
     background-position: center;
+    background-image: url(img/Procreatetrans15.PNG);
 }
 .navbar{
     width: 85%;
